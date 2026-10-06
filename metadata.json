@@ -1,0 +1,6 @@
+{
+  "name": "Tender Document Package Builder",
+  "description": "Client-side tender submission package compiler with duplicate verification, expiry tracking, and page numbering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
